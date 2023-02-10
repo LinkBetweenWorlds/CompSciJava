@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class HW3_2 {
+public class HW3_2 {
+    public static void main(String[] args) {
+
+    }
 }
